@@ -64,7 +64,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-::v-deep form {
+/deep/ form {
   background-color: gray;
   padding: 20px;
   border-radius: 20px;
