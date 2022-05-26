@@ -64,7 +64,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-/deep/ form {
+form {
   background-color: gray;
   padding: 20px;
   border-radius: 20px;
